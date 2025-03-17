@@ -8,10 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0781d101-f0a5-4d0a-979f-df3111ab9fc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/serial.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vga_buffer.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/vga_buffer.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +119,8 @@
       <workItem from="1742060780139" duration="1314000" />
       <workItem from="1742062121114" duration="8344000" />
       <workItem from="1742118822544" duration="4863000" />
+      <workItem from="1742130230323" duration="736000" />
+      <workItem from="1742237374387" duration="1389000" />
     </task>
     <servers />
   </component>
